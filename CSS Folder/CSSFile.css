@@ -1,0 +1,42 @@
+*{
+  box-sizing: border-box;
+}
+
+body{
+  background-color: whitesmoke;
+  font-size: xx-large;
+  font-family:monospace;
+  color:blueviolet
+}
+
+ul{
+  text-align: left;
+  color:blueviolet;
+  font-family: Impact;
+}
+
+img{
+  float:right;
+}
+
+li{
+  
+  font-family:Impact;
+  display: inline-table;
+  width: 160px;
+  height: 35px;
+  border: 2px solid blueviolet;
+}
+
+nav{
+  background-color: whitesmoke;
+}
+
+a{
+  color:blueviolet;
+}
+
+header{
+  color: blueviolet;
+  font-family:Impact;
+}
